@@ -50,7 +50,7 @@
   "dependencies": {
     "@hapi/boom": "^8.0.1",
     "@types/hapi__boom": "^7.4.1",
-    "apollo-server-koa": "^2.9.6",
+    "apollo-server-koa": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "dataloader": "^1.4.0",
     "glob": "^7.1.4",
